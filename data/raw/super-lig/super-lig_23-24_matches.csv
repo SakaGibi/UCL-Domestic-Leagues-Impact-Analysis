@@ -1,0 +1,381 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+7,1,11/08/2023 21:00,Senol Günes Sports Complex,Trabzonspor,Antalyaspor,1 - 0
+3,1,12/08/2023 19:15,Recep Tayyip Erdogan Stadium,Kasimpasa,Ankaragücü,3 - 2
+10,1,12/08/2023 19:15,Konya Metropolitan Municipality Stadium,Konyaspor,Istanbulspor,1 - 1
+1,1,12/08/2023 21:45,RHG Enertürk Enerji Stadium,Kayserispor,Galatasaray,0 - 0
+2,1,12/08/2023 21:45,Pendik Stadium,Pendikspor,Hatayspor,1 - 5
+9,1,13/08/2023 19:15,New Sivas 4 Eylül Stadium,Sivasspor,Samsunspor,1 - 1
+5,1,13/08/2023 21:45,New Adana Stadium,Adana Demirspor,Çaykur Rizespor,2 - 1
+8,1,13/08/2023 21:45,Sükrü Saracoglu Stadium,Fenerbahçe,Gaziantep,2 - 1
+4,1,14/08/2023 21:00,Kirbiyik Holding Stadium,Alanyaspor,Istanbul Basaksehir,2 - 0
+6,1,14/08/2023 21:00,Atatürk Olympic Stadium,Fatih Karagümrük,Besiktas,0 - 1
+12,2,18/08/2023 21:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Kayserispor,1 - 1
+17,2,18/08/2023 21:00,Corendon Airlines Park,Antalyaspor,Konyaspor,1 - 1
+20,2,19/08/2023 19:15,City of Rize Stadium,Çaykur Rizespor,Alanyaspor,0 - 0
+11,2,19/08/2023 21:45,New Hatay Stadium,Hatayspor,Kasimpasa,0 - 0
+13,2,19/08/2023 21:45,Rams Global Stadium,Galatasaray,Trabzonspor,2 - 0
+16,2,20/08/2023 19:15,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Fatih Karagümrük,0 - 2
+15,2,20/08/2023 21:45,Kalyon Stadium,Gaziantep,Sivasspor,1 - 3
+18,2,20/08/2023 21:45,Vodafone Park,Besiktas,Pendikspor,1 - 1
+14,2,21/08/2023 21:00,Samsun Stadium,Samsunspor,Fenerbahçe,0 - 2
+19,2,21/08/2023 21:00,Eryaman Stadium,Ankaragücü,Adana Demirspor,1 - 1
+30,3,25/08/2023 21:00,Konya Metropolitan Municipality Stadium,Konyaspor,Gaziantep,2 - 0
+23,3,26/08/2023 19:15,Recep Tayyip Erdogan Stadium,Kasimpasa,Pendikspor,1 - 1
+27,3,26/08/2023 19:15,Senol Günes Sports Complex,Trabzonspor,Çaykur Rizespor,2 - 3
+29,3,26/08/2023 21:45,New Sivas 4 Eylül Stadium,Sivasspor,Antalyaspor,1 - 1
+21,3,27/08/2023 19:15,RHG Enertürk Enerji Stadium,Kayserispor,Samsunspor,2 - 1
+26,3,27/08/2023 19:15,Atatürk Olympic Stadium,Fatih Karagümrük,Ankaragücü,1 - 1
+24,3,27/08/2023 21:45,Kirbiyik Holding Stadium,Alanyaspor,Hatayspor,0 - 0
+22,3,26/09/2023 20:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Galatasaray,0 - 1
+25,3,27/09/2023 20:00,New Adana Stadium,Adana Demirspor,Besiktas,4 - 2
+28,3,28/09/2023 20:00,Sükrü Saracoglu Stadium,Fenerbahçe,Istanbul Basaksehir,4 - 0
+33,4,01/09/2023 21:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Trabzonspor,1 - 5
+40,4,01/09/2023 21:00,City of Rize Stadium,Çaykur Rizespor,Fatih Karagümrük,1 - 0
+32,4,02/09/2023 19:15,Pendik Stadium,Pendikspor,Alanyaspor,1 - 1
+36,4,02/09/2023 19:15,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Konyaspor,0 - 1
+35,4,02/09/2023 21:45,Kalyon Stadium,Gaziantep,Galatasaray,0 - 3
+37,4,02/09/2023 21:45,Corendon Airlines Park,Antalyaspor,Kayserispor,1 - 1
+38,4,03/09/2023 19:15,Vodafone Park,Besiktas,Sivasspor,2 - 0
+31,4,03/09/2023 21:45,New Hatay Stadium,Hatayspor,Adana Demirspor,3 - 3
+39,4,03/09/2023 21:45,Eryaman Stadium,Ankaragücü,Fenerbahçe,0 - 1
+34,4,08/11/2023 20:00,Samsun Stadium,Samsunspor,Istanbulspor,2 - 1
+41,5,16/09/2023 17:00,RHG Enertürk Enerji Stadium,Kayserispor,Gaziantep,2 - 0
+50,5,16/09/2023 17:00,Konya Metropolitan Municipality Stadium,Konyaspor,Çaykur Rizespor,1 - 2
+43,5,16/09/2023 20:00,Rams Global Stadium,Galatasaray,Samsunspor,4 - 2
+45,5,16/09/2023 20:00,New Adana Stadium,Adana Demirspor,Pendikspor,3 - 0
+42,5,17/09/2023 17:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Istanbul Basaksehir,0 - 2
+48,5,17/09/2023 17:00,Sükrü Saracoglu Stadium,Fenerbahçe,Antalyaspor,3 - 2
+44,5,17/09/2023 20:00,Kirbiyik Holding Stadium,Alanyaspor,Kasimpasa,3 - 3
+47,5,17/09/2023 20:00,Senol Günes Sports Complex,Trabzonspor,Besiktas,3 - 0
+46,5,18/09/2023 20:00,Atatürk Olympic Stadium,Fatih Karagümrük,Hatayspor,0 - 0
+49,5,18/09/2023 20:00,New Sivas 4 Eylül Stadium,Sivasspor,Ankaragücü,1 - 3
+55,6,22/09/2023 20:00,Kalyon Stadium,Gaziantep,Istanbulspor,2 - 0
+52,6,23/09/2023 17:00,Pendik Stadium,Pendikspor,Fatih Karagümrük,1 - 1
+60,6,23/09/2023 17:00,City of Rize Stadium,Çaykur Rizespor,Sivasspor,1 - 1
+56,6,23/09/2023 20:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Galatasaray,1 - 2
+57,6,23/09/2023 20:00,Corendon Airlines Park,Antalyaspor,Samsunspor,2 - 0
+58,6,24/09/2023 17:00,Vodafone Park,Besiktas,Kayserispor,2 - 1
+59,6,24/09/2023 17:00,Eryaman Stadium,Ankaragücü,Konyaspor,1 - 1
+53,6,24/09/2023 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Adana Demirspor,2 - 1
+54,6,24/09/2023 20:00,Kirbiyik Holding Stadium,Alanyaspor,Fenerbahçe,0 - 1
+51,6,25/09/2023 20:05,New Hatay Stadium,Hatayspor,Trabzonspor,3 - 2
+64,7,29/09/2023 20:00,Samsun Stadium,Samsunspor,Gaziantep,1 - 2
+69,7,30/09/2023 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Hatayspor,0 - 0
+62,7,30/09/2023 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Antalyaspor,1 - 2
+67,7,30/09/2023 16:00,Senol Günes Sports Complex,Trabzonspor,Pendikspor,2 - 1
+63,7,30/09/2023 19:00,Rams Global Stadium,Galatasaray,Ankaragücü,2 - 1
+66,7,01/10/2023 13:30,Atatürk Olympic Stadium,Fatih Karagümrük,Kasimpasa,2 - 3
+68,7,01/10/2023 16:00,Sükrü Saracoglu Stadium,Fenerbahçe,Çaykur Rizespor,5 - 0
+65,7,01/10/2023 19:00,New Adana Stadium,Adana Demirspor,Alanyaspor,4 - 0
+70,7,01/10/2023 19:00,Konya Metropolitan Municipality Stadium,Konyaspor,Besiktas,0 - 2
+61,7,02/10/2023 20:00,RHG Enertürk Enerji Stadium,Kayserispor,Istanbul Basaksehir,0 - 0
+74,8,06/10/2023 20:00,Kirbiyik Holding Stadium,Alanyaspor,Fatih Karagümrük,2 - 1
+75,8,06/10/2023 20:00,New Adana Stadium,Adana Demirspor,Trabzonspor,1 - 0
+72,8,07/10/2023 13:30,Pendik Stadium,Pendikspor,Sivasspor,2 - 3
+79,8,07/10/2023 16:00,Eryaman Stadium,Ankaragücü,Kayserispor,3 - 0
+76,8,07/10/2023 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Gaziantep,2 - 0
+77,8,07/10/2023 19:00,Corendon Airlines Park,Antalyaspor,Galatasaray,0 - 2
+80,8,08/10/2023 13:30,City of Rize Stadium,Çaykur Rizespor,Samsunspor,1 - 0
+78,8,08/10/2023 16:00,Vodafone Park,Besiktas,Istanbulspor,2 - 0
+71,8,08/10/2023 19:00,New Hatay Stadium,Hatayspor,Konyaspor,3 - 1
+73,8,08/10/2023 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Fenerbahçe,0 - 2
+81,9,21/10/2023 13:30,RHG Enertürk Enerji Stadium,Kayserispor,Çaykur Rizespor,3 - 1
+85,9,21/10/2023 16:00,Kalyon Stadium,Gaziantep,Antalyaspor,1 - 0
+90,9,21/10/2023 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Pendikspor,1 - 2
+83,9,21/10/2023 19:00,Rams Global Stadium,Galatasaray,Besiktas,2 - 1
+89,9,22/10/2023 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Kasimpasa,0 - 1
+82,9,22/10/2023 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Ankaragücü,2 - 1
+84,9,22/10/2023 19:00,Samsun Stadium,Samsunspor,Istanbul Basaksehir,0 - 0
+88,9,22/10/2023 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Hatayspor,4 - 2
+86,9,23/10/2023 20:00,Atatürk Olympic Stadium,Fatih Karagümrük,Adana Demirspor,2 - 0
+87,9,23/10/2023 20:00,Senol Günes Sports Complex,Trabzonspor,Alanyaspor,1 - 0
+91,10,27/10/2023 20:00,New Hatay Stadium,Hatayspor,Kayserispor,1 - 2
+93,10,27/10/2023 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Istanbulspor,3 - 1
+94,10,28/10/2023 16:00,Kirbiyik Holding Stadium,Alanyaspor,Sivasspor,1 - 2
+95,10,28/10/2023 19:00,New Adana Stadium,Adana Demirspor,Konyaspor,3 - 0
+100,10,28/10/2023 19:00,City of Rize Stadium,Çaykur Rizespor,Galatasaray,0 - 1
+96,10,29/10/2023 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Trabzonspor,0 - 0
+92,10,29/10/2023 19:00,Pendik Stadium,Pendikspor,Fenerbahçe,0 - 5
+97,10,29/10/2023 19:00,Corendon Airlines Park,Antalyaspor,Istanbul Basaksehir,1 - 0
+99,10,29/10/2023 19:00,Eryaman Stadium,Ankaragücü,Samsunspor,2 - 0
+98,10,30/10/2023 20:00,Vodafone Park,Besiktas,Gaziantep,2 - 0
+103,11,03/11/2023 20:00,Rams Global Stadium,Galatasaray,Kasimpasa,2 - 1
+102,11,04/11/2023 13:30,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Pendikspor,2 - 4
+104,11,04/11/2023 16:00,Samsun Stadium,Samsunspor,Hatayspor,2 - 1
+108,11,04/11/2023 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Trabzonspor,2 - 3
+109,11,05/11/2023 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Adana Demirspor,1 - 1
+106,11,05/11/2023 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Ankaragücü,3 - 3
+110,11,05/11/2023 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Fatih Karagümrük,1 - 1
+107,11,05/11/2023 19:00,Corendon Airlines Park,Antalyaspor,Besiktas,3 - 2
+101,11,06/11/2023 20:00,RHG Enertürk Enerji Stadium,Kayserispor,Alanyaspor,1 - 0
+105,11,06/11/2023 20:00,Kalyon Stadium,Gaziantep,Çaykur Rizespor,2 - 0
+117,12,10/11/2023 20:00,Senol Günes Sports Complex,Trabzonspor,Konyaspor,2 - 1
+119,12,10/11/2023 20:00,Eryaman Stadium,Ankaragücü,Antalyaspor,0 - 4
+113,12,11/11/2023 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Kayserispor,3 - 4
+114,12,11/11/2023 16:00,Kirbiyik Holding Stadium,Alanyaspor,Gaziantep,0 - 3
+116,12,11/11/2023 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Sivasspor,3 - 0
+111,12,11/11/2023 19:00,New Hatay Stadium,Hatayspor,Galatasaray,2 - 1
+112,12,12/11/2023 13:30,Pendik Stadium,Pendikspor,Samsunspor,1 - 0
+118,12,12/11/2023 16:00,Vodafone Park,Besiktas,Istanbul Basaksehir,1 - 0
+120,12,12/11/2023 16:00,City of Rize Stadium,Çaykur Rizespor,Istanbulspor,1 - 0
+115,12,12/11/2023 19:00,New Adana Stadium,Adana Demirspor,Fenerbahçe,0 - 0
+122,13,25/11/2023 13:30,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Hatayspor,2 - 1
+125,13,25/11/2023 16:00,Kalyon Stadium,Gaziantep,Ankaragücü,0 - 1
+130,13,25/11/2023 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Kasimpasa,2 - 0
+123,13,25/11/2023 19:00,Rams Global Stadium,Galatasaray,Alanyaspor,4 - 0
+121,13,26/11/2023 13:30,RHG Enertürk Enerji Stadium,Kayserispor,Adana Demirspor,1 - 1
+124,13,26/11/2023 16:00,Samsun Stadium,Samsunspor,Besiktas,1 - 2
+127,13,26/11/2023 16:00,Corendon Airlines Park,Antalyaspor,Çaykur Rizespor,0 - 0
+128,13,26/11/2023 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Fatih Karagümrük,2 - 1
+126,13,27/11/2023 20:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Pendikspor,4 - 1
+129,13,27/11/2023 20:00,New Sivas 4 Eylül Stadium,Sivasspor,Trabzonspor,3 - 3
+131,14,01/12/2023 20:00,New Hatay Stadium,Hatayspor,Antalyaspor,3 - 3
+136,14,01/12/2023 20:03,Atatürk Olympic Stadium,Fatih Karagümrük,Istanbulspor,3 - 0
+134,14,02/12/2023 13:30,Kirbiyik Holding Stadium,Alanyaspor,Konyaspor,2 - 2
+140,14,02/12/2023 16:00,City of Rize Stadium,Çaykur Rizespor,Istanbul Basaksehir,3 - 2
+132,14,02/12/2023 19:00,Pendik Stadium,Pendikspor,Galatasaray,0 - 2
+135,14,02/12/2023 19:00,New Adana Stadium,Adana Demirspor,Samsunspor,2 - 3
+133,14,03/12/2023 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Gaziantep,4 - 2
+137,14,03/12/2023 16:00,Senol Günes Sports Complex,Trabzonspor,Kayserispor,0 - 1
+139,14,03/12/2023 19:00,Eryaman Stadium,Ankaragücü,Besiktas,1 - 1
+138,14,04/12/2023 20:00,Sükrü Saracoglu Stadium,Fenerbahçe,Sivasspor,4 - 1
+143,15,08/12/2023 20:00,Rams Global Stadium,Galatasaray,Adana Demirspor,3 - 1
+147,15,09/12/2023 13:30,Corendon Airlines Park,Antalyaspor,Fatih Karagümrük,2 - 1
+144,15,09/12/2023 16:00,Samsun Stadium,Samsunspor,Kasimpasa,4 - 2
+148,15,09/12/2023 19:00,Vodafone Park,Besiktas,Fenerbahçe,1 - 3
+142,15,10/12/2023 13:30,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Alanyaspor,0 - 1
+141,15,10/12/2023 16:00,RHG Enertürk Enerji Stadium,Kayserispor,Pendikspor,2 - 0
+146,15,10/12/2023 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Hatayspor,1 - 0
+145,15,10/12/2023 19:00,Kalyon Stadium,Gaziantep,Trabzonspor,1 - 3
+149,15,11/12/2023 20:00,Eryaman Stadium,Ankaragücü,Çaykur Rizespor,1 - 1
+150,15,11/12/2023 20:00,Konya Metropolitan Municipality Stadium,Konyaspor,Sivasspor,0 - 1
+166,16,19/12/2023 17:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Sivasspor,3 - 1
+162,16,19/12/2023 20:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Trabzonspor,
+165,16,19/12/2023 20:00,Kalyon Stadium,Gaziantep,Adana Demirspor,2 - 2
+161,16,20/12/2023 17:00,RHG Enertürk Enerji Stadium,Kayserispor,Fenerbahçe,3 - 4
+163,16,20/12/2023 20:00,Rams Global Stadium,Galatasaray,Fatih Karagümrük,1 - 0
+167,16,20/12/2023 20:00,Corendon Airlines Park,Antalyaspor,Kasimpasa,0 - 0
+164,16,21/12/2023 17:00,Samsun Stadium,Samsunspor,Konyaspor,1 - 1
+170,16,21/12/2023 17:00,City of Rize Stadium,Çaykur Rizespor,Pendikspor,5 - 1
+168,16,21/12/2023 20:00,Vodafone Park,Besiktas,Alanyaspor,1 - 3
+169,16,21/12/2023 20:00,Eryaman Stadium,Ankaragücü,Hatayspor,0 - 0
+179,17,23/12/2023 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Istanbulspor,1 - 0
+176,17,23/12/2023 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Gaziantep,0 - 3
+177,17,23/12/2023 19:00,Senol Günes Sports Complex,Trabzonspor,Istanbul Basaksehir,1 - 1
+180,17,24/12/2023 13:30,Konya Metropolitan Municipality Stadium,Konyaspor,Kayserispor,2 - 0
+175,17,24/12/2023 16:00,New Adana Stadium,Adana Demirspor,Antalyaspor,2 - 1
+178,17,24/12/2023 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Galatasaray,0 - 0
+173,17,25/12/2023 17:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Çaykur Rizespor,2 - 2
+174,17,25/12/2023 17:00,Kirbiyik Holding Stadium,Alanyaspor,Samsunspor,3 - 1
+171,17,25/12/2023 20:00,New Hatay Stadium,Hatayspor,Besiktas,1 - 2
+172,17,25/12/2023 20:00,Pendik Stadium,Pendikspor,Ankaragücü,1 - 1
+185,18,05/01/2024 17:00,Kalyon Stadium,Gaziantep,Pendikspor,2 - 2
+187,18,05/01/2024 20:00,Corendon Airlines Park,Antalyaspor,Alanyaspor,0 - 0
+188,18,05/01/2024 20:00,Vodafone Park,Besiktas,Kasimpasa,1 - 3
+190,18,06/01/2024 13:30,City of Rize Stadium,Çaykur Rizespor,Hatayspor,2 - 0
+186,18,06/01/2024 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Adana Demirspor,0 - 0
+184,18,06/01/2024 19:00,Samsun Stadium,Samsunspor,Fatih Karagümrük,1 - 0
+189,18,06/01/2024 19:00,Eryaman Stadium,Ankaragücü,Trabzonspor,0 - 1
+181,18,07/01/2024 13:30,RHG Enertürk Enerji Stadium,Kayserispor,Sivasspor,1 - 3
+182,18,07/01/2024 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Fenerbahçe,1 - 5
+183,18,07/01/2024 19:00,Rams Global Stadium,Galatasaray,Konyaspor,3 - 0
+152,19,09/01/2024 17:00,Pendik Stadium,Pendikspor,Antalyaspor,0 - 1
+154,19,09/01/2024 17:00,Kirbiyik Holding Stadium,Alanyaspor,Ankaragücü,1 - 1
+153,19,09/01/2024 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Istanbul Basaksehir,0 - 3
+160,19,09/01/2024 20:00,City of Rize Stadium,Çaykur Rizespor,Besiktas,0 - 4
+151,19,10/01/2024 17:00,New Hatay Stadium,Hatayspor,Gaziantep,0 - 0
+156,19,10/01/2024 17:00,Atatürk Olympic Stadium,Fatih Karagümrük,Kayserispor,4 - 1
+155,19,10/01/2024 20:00,New Adana Stadium,Adana Demirspor,Istanbulspor,2 - 2
+158,19,10/01/2024 20:00,Sükrü Saracoglu Stadium,Fenerbahçe,Konyaspor,7 - 1
+159,19,11/01/2024 17:00,New Sivas 4 Eylül Stadium,Sivasspor,Galatasaray,1 - 1
+157,19,11/01/2024 20:00,Senol Günes Sports Complex,Trabzonspor,Samsunspor,2 - 1
+192,20,13/01/2024 13:30,New Hatay Stadium,Hatayspor,Pendikspor,1 - 1
+193,20,13/01/2024 13:30,Eryaman Stadium,Ankaragücü,Kasimpasa,3 - 1
+194,20,13/01/2024 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Alanyaspor,3 - 2
+195,20,13/01/2024 19:00,City of Rize Stadium,Çaykur Rizespor,Adana Demirspor,1 - 0
+196,20,13/01/2024 19:00,Vodafone Park,Besiktas,Fatih Karagümrük,3 - 0
+200,20,14/01/2024 13:30,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Konyaspor,0 - 0
+197,20,14/01/2024 16:00,Corendon Airlines Park,Antalyaspor,Trabzonspor,1 - 1
+199,20,14/01/2024 16:00,Samsun Stadium,Samsunspor,Sivasspor,2 - 0
+198,20,14/01/2024 19:00,Kalyon Stadium,Gaziantep,Fenerbahçe,0 - 1
+191,20,15/01/2024 20:00,Rams Global Stadium,Galatasaray,Kayserispor,2 - 1
+201,21,20/01/2024 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Hatayspor,3 - 0
+206,21,20/01/2024 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Istanbul Basaksehir,1 - 1
+210,21,20/01/2024 16:00,Kirbiyik Holding Stadium,Alanyaspor,Çaykur Rizespor,2 - 1
+208,21,20/01/2024 19:00,Pendik Stadium,Pendikspor,Besiktas,4 - 0
+209,21,20/01/2024 19:00,New Adana Stadium,Adana Demirspor,Ankaragücü,1 - 1
+205,21,21/01/2024 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Gaziantep,2 - 2
+204,21,21/01/2024 16:00,Sükrü Saracoglu Stadium,Fenerbahçe,Samsunspor,1 - 1
+207,21,21/01/2024 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Antalyaspor,1 - 1
+203,21,21/01/2024 19:00,Senol Günes Sports Complex,Trabzonspor,Galatasaray,1 - 5
+202,21,22/01/2024 20:00,RHG Enertürk Enerji Stadium,Kayserispor,Istanbulspor,0 - 1
+214,22,23/01/2024 17:00,New Hatay Stadium,Hatayspor,Alanyaspor,1 - 1
+213,22,23/01/2024 20:00,Pendik Stadium,Pendikspor,Kasimpasa,3 - 2
+215,22,23/01/2024 20:00,Vodafone Park,Besiktas,Adana Demirspor,0 - 0
+216,22,24/01/2024 17:00,Eryaman Stadium,Ankaragücü,Fatih Karagümrük,2 - 0
+220,22,24/01/2024 17:00,Kalyon Stadium,Gaziantep,Konyaspor,1 - 1
+218,22,24/01/2024 20:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Fenerbahçe,0 - 1
+219,22,24/01/2024 20:00,Corendon Airlines Park,Antalyaspor,Sivasspor,2 - 1
+211,22,25/01/2024 17:00,Samsun Stadium,Samsunspor,Kayserispor,2 - 0
+212,22,25/01/2024 20:00,Rams Global Stadium,Galatasaray,Istanbulspor,3 - 1
+217,22,25/01/2024 20:00,City of Rize Stadium,Çaykur Rizespor,Trabzonspor,1 - 0
+222,23,27/01/2024 16:00,Kirbiyik Holding Stadium,Alanyaspor,Pendikspor,1 - 1
+221,23,27/01/2024 19:00,New Adana Stadium,Adana Demirspor,Hatayspor,0 - 1
+226,23,28/01/2024 13:30,Konya Metropolitan Municipality Stadium,Konyaspor,Istanbul Basaksehir,2 - 3
+228,23,28/01/2024 16:00,New Sivas 4 Eylül Stadium,Sivasspor,Besiktas,1 - 0
+230,23,28/01/2024 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Çaykur Rizespor,4 - 0
+229,23,28/01/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Ankaragücü,2 - 1
+224,23,29/01/2024 17:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Samsunspor,1 - 1
+227,23,29/01/2024 17:00,RHG Enertürk Enerji Stadium,Kayserispor,Antalyaspor,1 - 1
+223,23,29/01/2024 20:00,Senol Günes Sports Complex,Trabzonspor,Kasimpasa,2 - 3
+225,23,29/01/2024 20:00,Rams Global Stadium,Galatasaray,Gaziantep,2 - 1
+236,24,02/02/2024 17:00,New Hatay Stadium,Hatayspor,Fatih Karagümrük,3 - 1
+239,24,02/02/2024 17:00,Eryaman Stadium,Ankaragücü,Sivasspor,0 - 0
+233,24,02/02/2024 20:00,Samsun Stadium,Samsunspor,Galatasaray,0 - 2
+240,24,03/02/2024 13:30,City of Rize Stadium,Çaykur Rizespor,Konyaspor,0 - 0
+232,24,03/02/2024 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Istanbulspor,2 - 0
+231,24,03/02/2024 19:00,Kalyon Stadium,Gaziantep,Kayserispor,1 - 1
+238,24,03/02/2024 19:00,Corendon Airlines Park,Antalyaspor,Fenerbahçe,0 - 2
+235,24,04/02/2024 13:30,Pendik Stadium,Pendikspor,Adana Demirspor,2 - 1
+234,24,04/02/2024 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Alanyaspor,2 - 1
+237,24,04/02/2024 19:00,Vodafone Park,Besiktas,Trabzonspor,2 - 0
+243,25,09/02/2024 20:00,New Adana Stadium,Adana Demirspor,Kasimpasa,1 - 3
+242,25,10/02/2024 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Pendikspor,2 - 0
+246,25,10/02/2024 19:00,Rams Global Stadium,Galatasaray,Istanbul Basaksehir,2 - 0
+250,25,11/02/2024 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Çaykur Rizespor,1 - 0
+245,25,11/02/2024 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Gaziantep,1 - 3
+249,25,11/02/2024 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Ankaragücü,1 - 0
+244,25,11/02/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Alanyaspor,2 - 2
+241,25,12/02/2024 17:00,Senol Günes Sports Complex,Trabzonspor,Hatayspor,2 - 0
+247,25,12/02/2024 20:00,Samsun Stadium,Samsunspor,Antalyaspor,2 - 0
+248,25,12/02/2024 20:00,RHG Enertürk Enerji Stadium,Kayserispor,Besiktas,0 - 0
+256,26,16/02/2024 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Fatih Karagümrük,1 - 1
+252,26,17/02/2024 13:30,Corendon Airlines Park,Antalyaspor,Istanbulspor,2 - 2
+259,26,17/02/2024 16:00,New Hatay Stadium,Hatayspor,Sivasspor,1 - 1
+258,26,17/02/2024 19:00,City of Rize Stadium,Çaykur Rizespor,Fenerbahçe,1 - 3
+255,26,18/02/2024 13:30,Kirbiyik Holding Stadium,Alanyaspor,Adana Demirspor,3 - 3
+254,26,18/02/2024 16:00,Kalyon Stadium,Gaziantep,Samsunspor,1 - 1
+257,26,18/02/2024 16:00,Pendik Stadium,Pendikspor,Trabzonspor,0 - 2
+253,26,18/02/2024 19:00,Eryaman Stadium,Ankaragücü,Galatasaray,0 - 3
+251,26,19/02/2024 20:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Kayserispor,2 - 3
+260,26,19/02/2024 20:00,Vodafone Park,Besiktas,Konyaspor,2 - 0
+270,27,23/02/2024 20:00,Samsun Stadium,Samsunspor,Çaykur Rizespor,3 - 0
+269,27,24/02/2024 13:30,RHG Enertürk Enerji Stadium,Kayserispor,Ankaragücü,3 - 2
+266,27,24/02/2024 16:00,Kalyon Stadium,Gaziantep,Istanbul Basaksehir,0 - 2
+261,27,24/02/2024 19:00,Konya Metropolitan Municipality Stadium,Konyaspor,Hatayspor,2 - 0
+263,27,24/02/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Kasimpasa,2 - 1
+262,27,25/02/2024 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Pendikspor,4 - 1
+264,27,25/02/2024 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Alanyaspor,1 - 1
+265,27,25/02/2024 16:00,Senol Günes Sports Complex,Trabzonspor,Adana Demirspor,1 - 0
+268,27,25/02/2024 19:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Besiktas,0 - 2
+267,27,26/02/2024 20:00,Rams Global Stadium,Galatasaray,Antalyaspor,2 - 1
+279,28,01/03/2024 20:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Sivasspor,0 - 0
+272,28,02/03/2024 13:30,Eryaman Stadium,Ankaragücü,Istanbulspor,1 - 1
+271,28,02/03/2024 16:00,City of Rize Stadium,Çaykur Rizespor,Kayserispor,3 - 0
+278,28,02/03/2024 19:00,New Hatay Stadium,Hatayspor,Fenerbahçe,0 - 2
+274,28,03/03/2024 13:30,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Samsunspor,1 - 0
+280,28,03/03/2024 13:30,Pendik Stadium,Pendikspor,Konyaspor,0 - 2
+273,28,03/03/2024 19:00,Vodafone Park,Besiktas,Galatasaray,0 - 1
+276,28,04/03/2024 17:00,New Adana Stadium,Adana Demirspor,Fatih Karagümrük,1 - 0
+275,28,04/03/2024 20:00,Corendon Airlines Park,Antalyaspor,Gaziantep,1 - 0
+277,28,04/03/2024 20:00,Kirbiyik Holding Stadium,Alanyaspor,Trabzonspor,3 - 1
+290,29,08/03/2024 20:00,Rams Global Stadium,Galatasaray,Çaykur Rizespor,6 - 2
+284,29,09/03/2024 13:30,New Sivas 4 Eylül Stadium,Sivasspor,Alanyaspor,1 - 2
+285,29,09/03/2024 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Adana Demirspor,2 - 2
+286,29,09/03/2024 19:00,Senol Günes Sports Complex,Trabzonspor,Fatih Karagümrük,5 - 1
+287,29,09/03/2024 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Antalyaspor,1 - 0
+281,29,10/03/2024 13:30,RHG Enertürk Enerji Stadium,Kayserispor,Hatayspor,1 - 1
+283,29,10/03/2024 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Kasimpasa,1 - 2
+289,29,10/03/2024 16:00,Samsun Stadium,Samsunspor,Ankaragücü,2 - 1
+282,29,10/03/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Pendikspor,4 - 1
+288,29,11/03/2024 20:30,Kalyon Stadium,Gaziantep,Besiktas,2 - 0
+292,30,15/03/2024 20:30,Pendik Stadium,Pendikspor,Istanbulspor,1 - 0
+300,30,15/03/2024 20:30,Atatürk Olympic Stadium,Fatih Karagümrük,Konyaspor,1 - 1
+291,30,16/03/2024 13:30,Kirbiyik Holding Stadium,Alanyaspor,Kayserispor,1 - 0
+296,30,16/03/2024 16:00,Eryaman Stadium,Ankaragücü,Istanbul Basaksehir,2 - 1
+297,30,16/03/2024 20:30,Vodafone Park,Besiktas,Antalyaspor,1 - 2
+299,30,16/03/2024 20:30,New Adana Stadium,Adana Demirspor,Sivasspor,4 - 1
+295,30,17/03/2024 13:30,City of Rize Stadium,Çaykur Rizespor,Gaziantep,3 - 1
+293,30,17/03/2024 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Galatasaray,3 - 4
+294,30,17/03/2024 16:00,New Hatay Stadium,Hatayspor,Samsunspor,3 - 0
+298,30,17/03/2024 20:30,Senol Günes Sports Complex,Trabzonspor,Fenerbahçe,2 - 3
+310,31,02/04/2024 17:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Çaykur Rizespor,0 - 4
+301,31,02/04/2024 20:30,Rams Global Stadium,Galatasaray,Hatayspor,1 - 0
+304,31,02/04/2024 20:30,Kalyon Stadium,Gaziantep,Alanyaspor,0 - 3
+309,31,02/04/2024 20:30,Corendon Airlines Park,Antalyaspor,Ankaragücü,1 - 1
+306,31,03/04/2024 17:00,New Sivas 4 Eylül Stadium,Sivasspor,Fatih Karagümrük,1 - 0
+303,31,03/04/2024 20:30,RHG Enertürk Enerji Stadium,Kayserispor,Kasimpasa,0 - 2
+305,31,03/04/2024 20:30,Sükrü Saracoglu Stadium,Fenerbahçe,Adana Demirspor,4 - 2
+307,31,03/04/2024 20:30,Konya Metropolitan Municipality Stadium,Konyaspor,Trabzonspor,1 - 3
+302,31,04/04/2024 20:30,Samsun Stadium,Samsunspor,Pendikspor,0 - 0
+308,31,04/04/2024 20:30,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Besiktas,1 - 1
+319,32,12/04/2024 20:00,Senol Günes Sports Complex,Trabzonspor,Sivasspor,0 - 1
+320,32,13/04/2024 13:30,Recep Tayyip Erdogan Stadium,Kasimpasa,Konyaspor,0 - 2
+315,32,13/04/2024 16:00,Eryaman Stadium,Ankaragücü,Gaziantep,3 - 1
+311,32,13/04/2024 19:00,New Adana Stadium,Adana Demirspor,Kayserispor,0 - 0
+314,32,13/04/2024 19:00,Vodafone Park,Besiktas,Samsunspor,1 - 1
+316,32,14/04/2024 13:30,Pendik Stadium,Pendikspor,Istanbul Basaksehir,2 - 3
+312,32,14/04/2024 16:00,New Hatay Stadium,Hatayspor,Istanbulspor,0 - 3
+317,32,14/04/2024 16:00,City of Rize Stadium,Çaykur Rizespor,Antalyaspor,3 - 0
+318,32,14/04/2024 19:00,Atatürk Olympic Stadium,Fatih Karagümrük,Fenerbahçe,1 - 2
+313,32,15/04/2024 20:00,Kirbiyik Holding Stadium,Alanyaspor,Galatasaray,0 - 4
+329,33,19/04/2024 20:00,Vodafone Park,Besiktas,Ankaragücü,2 - 0
+326,33,20/04/2024 13:30,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Fatih Karagümrük,1 - 2
+324,33,20/04/2024 16:00,Konya Metropolitan Municipality Stadium,Konyaspor,Alanyaspor,0 - 2
+325,33,20/04/2024 19:00,Samsun Stadium,Samsunspor,Adana Demirspor,1 - 1
+327,33,20/04/2024 19:00,RHG Enertürk Enerji Stadium,Kayserispor,Trabzonspor,1 - 2
+330,33,21/04/2024 13:30,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Çaykur Rizespor,2 - 0
+321,33,21/04/2024 19:00,Corendon Airlines Park,Antalyaspor,Hatayspor,2 - 1
+322,33,21/04/2024 19:00,Rams Global Stadium,Galatasaray,Pendikspor,4 - 1
+323,33,21/04/2024 19:00,Kalyon Stadium,Gaziantep,Kasimpasa,2 - 0
+328,33,22/04/2024 20:00,New Sivas 4 Eylül Stadium,Sivasspor,Fenerbahçe,2 - 2
+333,34,26/04/2024 20:05,New Adana Stadium,Adana Demirspor,Galatasaray,0 - 3
+334,34,27/04/2024 16:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Samsunspor,1 - 0
+340,34,27/04/2024 16:00,New Sivas 4 Eylül Stadium,Sivasspor,Konyaspor,1 - 0
+336,34,27/04/2024 19:00,New Hatay Stadium,Hatayspor,Istanbul Basaksehir,1 - 2
+338,34,27/04/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Besiktas,2 - 1
+331,34,28/04/2024 16:00,Pendik Stadium,Pendikspor,Kayserispor,1 - 2
+332,34,28/04/2024 16:00,Kirbiyik Holding Stadium,Alanyaspor,Istanbulspor,6 - 0
+335,34,28/04/2024 19:00,Senol Günes Sports Complex,Trabzonspor,Gaziantep,4 - 2
+339,34,28/04/2024 19:00,City of Rize Stadium,Çaykur Rizespor,Ankaragücü,2 - 2
+337,34,29/04/2024 20:00,Atatürk Olympic Stadium,Fatih Karagümrük,Antalyaspor,4 - 1
+344,35,03/05/2024 20:00,Eryaman Stadium,Ankaragücü,Alanyaspor,1 - 1
+350,35,03/05/2024 20:00,Vodafone Park,Besiktas,Çaykur Rizespor,3 - 2
+345,35,04/05/2024 16:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Adana Demirspor,0 - 1
+346,35,04/05/2024 19:00,RHG Enertürk Enerji Stadium,Kayserispor,Fatih Karagümrük,2 - 2
+347,35,04/05/2024 19:00,Samsun Stadium,Samsunspor,Trabzonspor,3 - 1
+343,35,05/05/2024 16:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Kasimpasa,4 - 1
+341,35,05/05/2024 19:00,Kalyon Stadium,Gaziantep,Hatayspor,1 - 1
+349,35,05/05/2024 19:00,Rams Global Stadium,Galatasaray,Sivasspor,6 - 1
+342,35,06/05/2024 20:00,Corendon Airlines Park,Antalyaspor,Pendikspor,1 - 2
+348,35,06/05/2024 20:00,Konya Metropolitan Municipality Stadium,Konyaspor,Fenerbahçe,0 - 0
+351,36,12/05/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Kayserispor,3 - 0
+352,36,12/05/2024 19:00,Senol Günes Sports Complex,Trabzonspor,Istanbulspor,3 - 0
+353,36,12/05/2024 19:00,Atatürk Olympic Stadium,Fatih Karagümrük,Galatasaray,2 - 3
+354,36,12/05/2024 19:00,Konya Metropolitan Municipality Stadium,Konyaspor,Samsunspor,3 - 0
+355,36,12/05/2024 19:00,New Adana Stadium,Adana Demirspor,Gaziantep,1 - 6
+356,36,12/05/2024 19:00,New Sivas 4 Eylül Stadium,Sivasspor,Istanbul Basaksehir,0 - 1
+357,36,12/05/2024 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Antalyaspor,3 - 1
+358,36,12/05/2024 19:00,Kirbiyik Holding Stadium,Alanyaspor,Besiktas,1 - 1
+359,36,12/05/2024 19:00,New Hatay Stadium,Hatayspor,Ankaragücü,2 - 1
+360,36,12/05/2024 19:00,Pendik Stadium,Pendikspor,Çaykur Rizespor,2 - 1
+369,37,17/05/2024 17:00,Esenyurt Necmi Kadioglu Stadium,Istanbulspor,Sivasspor,1 - 3
+365,37,17/05/2024 20:00,Corendon Airlines Park,Antalyaspor,Adana Demirspor,2 - 1
+361,37,18/05/2024 19:00,Vodafone Park,Besiktas,Hatayspor,2 - 2
+362,37,18/05/2024 19:00,Eryaman Stadium,Ankaragücü,Pendikspor,0 - 0
+364,37,18/05/2024 19:00,Samsun Stadium,Samsunspor,Alanyaspor,1 - 1
+366,37,18/05/2024 19:00,Kalyon Stadium,Gaziantep,Fatih Karagümrük,3 - 1
+367,37,18/05/2024 19:00,Basaksehir Fatih Terim Stadium,Istanbul Basaksehir,Trabzonspor,0 - 1
+370,37,18/05/2024 19:00,RHG Enertürk Enerji Stadium,Kayserispor,Konyaspor,2 - 2
+363,37,18/05/2024 20:00,City of Rize Stadium,Çaykur Rizespor,Kasimpasa,0 - 0
+368,37,19/05/2024 19:00,Rams Global Stadium,Galatasaray,Fenerbahçe,0 - 1
+377,38,24/05/2024 20:00,Kirbiyik Holding Stadium,Alanyaspor,Antalyaspor,1 - 1
+374,38,25/05/2024 16:00,Atatürk Olympic Stadium,Fatih Karagümrük,Samsunspor,3 - 1
+371,38,25/05/2024 19:00,New Sivas 4 Eylül Stadium,Sivasspor,Kayserispor,2 - 1
+372,38,26/05/2024 19:00,Sükrü Saracoglu Stadium,Fenerbahçe,Istanbulspor,6 - 0
+373,38,26/05/2024 19:00,Konya Metropolitan Municipality Stadium,Konyaspor,Galatasaray,1 - 3
+375,38,26/05/2024 19:00,Pendik Stadium,Pendikspor,Gaziantep,0 - 1
+376,38,26/05/2024 19:00,New Adana Stadium,Adana Demirspor,Istanbul Basaksehir,2 - 6
+378,38,26/05/2024 19:00,Recep Tayyip Erdogan Stadium,Kasimpasa,Besiktas,2 - 1
+379,38,26/05/2024 19:00,Senol Günes Sports Complex,Trabzonspor,Ankaragücü,4 - 2
+380,38,26/05/2024 19:00,New Hatay Stadium,Hatayspor,Çaykur Rizespor,2 - 0
