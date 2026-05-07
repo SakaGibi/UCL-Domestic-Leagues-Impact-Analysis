@@ -1,0 +1,37 @@
+# UEFA Champions League & Domestic League Performance Impact
+# Comparison: 2020-2026 Project Findings vs. CIES Football Observatory 2015 Report
+
+This document outlines the comparative findings between my recent analysis (2020-2026 dataset) and the official CIES report commissioned by UEFA covering the 2009-2015 period.
+
+## 1. Short-Term Fatigue Effect (Q1 & Q2)
+- **My Analysis:** Short-term fatigue does NOT statistically affect league performance. Matches played with severe fatigue (≤3 days rest) yielded an average of 1.920 points, compared to 1.877 for fully rested teams. Furthermore, exactly 3 days of rest was identified as the optimal recovery window, yielding the highest points.
+- **CIES Report:** The 2015 report found the exact same trend. Teams playing within a 5-day window of a European fixture achieved 1.72 points vs 1.74 for non-European weeks. They also explicitly identified that exactly 3 days of rest yielded the highest performance peak (1.81 points).
+- **Conclusion:** Both studies confirm that the "fatigue" argument for a single match is statistically unfounded. Teams maintain their rhythm.
+
+## 2. The Away Discrepancy (Q3)
+- **My Analysis:** The decline is not more pronounced in away games. Away points under severe fatigue (1.715) were almost identical to rested away points (1.697).
+- **CIES Report:** Confirmed that the venue of the domestic match (home vs away) made no difference in performance drops following a UEFA match.
+
+
+## 3. Goal Scoring and Conceding Dynamics (Q4)
+- **My Analysis:** Goal scoring and conceding abilities do not show significant degradation under UCL fatigue. The attacking and defensive outputs remain largely consistent regardless of the rest period.
+- **CIES Report:** Did not explicitly test goal dynamics, but the overall consistency in domestic points aligns with the finding that teams do not suffer a collapse in either attack or defense.
+
+## 4. Macro / Season-Long Impact (Q5)
+- **My Analysis:** When looking at the macro level (the entire season), playing in the Champions League leads to a slight but noticeable decline in average league points across most leagues (except Serie A) when compared to seasons where those same teams did not participate in the UCL. 
+- **CIES Report:** Claimed there was no macro correlation between the number of UCL matches and domestic league points.
+- **Note/Discussion:** This is a key difference. It may suggest that modern football (2020-2026) with its higher intensity and congested schedules takes a heavier cumulative toll over a 38-game season than it did a decade ago. (Needs further validation to ensure no calculation bias).
+
+## 5. Deeper Progression in UCL (Q6)
+- **My Analysis:** Advancing further into the knockout stages (Round of 16, QF, SF) does not make the short-term fatigue effect stronger.
+- **CIES Report:** The 2015 report observed that being eliminated early from European competitions did not improve domestic performance; in fact, points often dropped post-elimination due to loss of competitive momentum.
+
+## 6. Elite Teams vs. Normal Teams Resistance (Q7)
+- **My Analysis:** Both "Elite" teams (regular UCL participants) and "Normal" teams (infrequent participants) showed strong resistance to short-term fatigue.
+- **CIES Report:** Highlighted that in their era, Tier 3 or infrequent teams (e.g., Austria Wien, SC Braga) suffered severe domestic points drops when playing in the UCL group stages.
+- **Note/Discussion:** The narrowing gap in fatigue resistance between elite and normal teams might be attributed to the 5-substitution rule introduced in 2020, better sports science, and increased squad depths across all modern teams. (Requires further verification).
+
+## 7. The New Swiss Format (Q8)
+- **My Analysis:** The newly introduced Swiss System format (2024-2025 onwards) does not appear to cause a harsher drop in points or increase fatigue compared to the traditional group stage format.
+- **CIES Report:** N/A (The format did not exist).
+- **Conclusion:** A completely novel finding that adds modern relevance to the analysis.

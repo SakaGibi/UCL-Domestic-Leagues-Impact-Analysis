@@ -114,13 +114,24 @@ This enables a comparative study of how different European competition structure
 
 ### 3. Analysis
 
-Currently working on it.
+The core analytical phase has been completed. The Exploratory Data Analysis (EDA) focused on answering the initial research questions by evaluating:
+
+- **The General Impact:** Measuring the overall drop in domestic league Points Per Game (PPG) following Champions League fixtures.
+- **Fatigue & Recovery:** Comparing team performance across different rest intervals (0–3 days, 4–6 days, and 7+ days).
+- **Elite Team Resilience:** Assessing whether top-tier teams with deeper squads are more resistant to the "UCL Effect" compared to standard participants.
+- **New vs. Old Format:** Evaluating the physical toll of the newly introduced 2024–2025 league phase format against the traditional group stage.
+- **Home/Away & Goal Dynamics:** Analyzing if post-UCL performance drops are more severe in away games and how goal scoring/conceding trends shift.
+
+*(Detailed statistical findings and visualizations will be published in the upcoming final report.)*
 
 ---
 
-## Methods I used
+## Methods I Used
 
-Will be written later. 
+- **Python (Pandas, NumPy):** Extensively used for data ingestion, cleaning, and complex transformations. Functions like `merge_asof` were crucial for accurately mapping the timeline between European and domestic fixtures to calculate exact recovery days.
+- **Exploratory Data Analysis (EDA):** Conducted within Jupyter Notebooks to investigate distributions, calculate performance variations, and uncover statistical trends.
+- **Feature Engineering:** Developed custom metrics including cumulative match loads to measure seasonal fatigue, and impact categorization based on recovery windows.
+- **Data Visualization:** Utilized data visualization tools to visually map performance drops, home/away discrepancies, and differences between team tiers.
 
 ---
 
@@ -134,7 +145,6 @@ The goal is to build a structured dataset and analysis pipeline that can later b
 
 ## Status
 
-This project is in the mid-development stage.
+**Almost Complete.**
 
-Current focus:
-- Analyses, Answers of the Questions. 
+The data collection, processing, and analytical phases are entirely finished. Currently, final checks and code validations are being conducted. Once these final verifications are complete, a comprehensive final report detailing all findings will be written.
