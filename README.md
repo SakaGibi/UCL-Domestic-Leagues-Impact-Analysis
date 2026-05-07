@@ -30,7 +30,6 @@ I’m working with:
 - Domestic league match data (5 major leagues + Turkish Super League)
 - UEFA Champions League match data
 - Exactly 6 seasons per league
-- Elo ratings dataset (for team strength context, available up to 2025-06-01; the last season will be treated without Elo where necessary)
 
 All match data was collected from:  
 https://fixturedownload.com  
@@ -41,7 +40,7 @@ https://fixturedownload.com
 
 ### 1. Data Cleaning & Preparation
 
-The raw data consisted of individual CSV files for seven domestic leagues and the UEFA Champions League across six seasons (2020–2026). The preparation pipeline was designed to transform this fragmented data into a unified, team-centric dataset.
+The raw data consisted of individual CSV files for six domestic leagues and the UEFA Champions League across six seasons (2020–2026). The preparation pipeline was designed to transform this fragmented data into a unified, team-centric dataset.
 
 #### Data Integration & Standardization
 
@@ -106,7 +105,7 @@ Result strings were parsed into discrete goal counts to calculate domestic leagu
 
 A feature was added to distinguish between:
 
-- The **"Classic"** group stage format
+- The **"Old"** group stage format
 - The **"New"** league phase format introduced in the 2024–2025 season
 
 This enables a comparative study of how different European competition structures impact domestic success.
@@ -115,15 +114,13 @@ This enables a comparative study of how different European competition structure
 
 ### 3. Analysis
 
-This will be defined later after cleaning and merging is complete.
+Currently working on it.
 
 ---
 
-## Methods I might use
+## Methods I used
 
-Also not finalized yet. I’ll decide based on the structure of the cleaned dataset.
-
-Right now, the priority is completing the data preparation and merging pipeline first.
+Will be written later. 
 
 ---
 
@@ -137,9 +134,7 @@ The goal is to build a structured dataset and analysis pipeline that can later b
 
 ## Status
 
-This project is in the early development stage.
+This project is in the mid-development stage.
 
 Current focus:
-- data cleaning
-- dataset merging
-- building a unified match-level dataset
+- Analyses, Answers of the Questions. 
